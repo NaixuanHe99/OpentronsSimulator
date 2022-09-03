@@ -1,0 +1,35 @@
+Transferring 100.0 from A2 of NEST 12 Well Reservoir 15 mL on 2 to B1 of NEST 96 Well Plate 200 µL Flat on 3
+	Picking up tip from A1 of Opentrons 96 Tip Rack 300 µL on 1
+	Returning tip into A1 of Opentrons 96 Tip Rack 300 µL on 3
+	Picking up tip from A1 of Opentrons 96 Tip Rack 300 µL on 1
+	Aspirating 50.0 uL from B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+	Touching tip
+	Blowing out at A1 of Corning 96 Well Plate 360 µL Flat on 1
+	Aspirating 100.0 uL from A2 of NEST 12 Well Reservoir 15 mL on 2 at 92.86 uL/sec
+	Dispensing 100.0 uL into B10 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from B10 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B10 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Aspirating 50.0 uL from B10 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B10 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Aspirating 50.0 uL from B10 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B10 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+	Aspirating 100.0 uL from A2 of NEST 12 Well Reservoir 15 mL on 2 at 92.86 uL/sec
+	Dispensing 100.0 uL into B11 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from B11 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B11 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Aspirating 50.0 uL from B11 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B11 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Aspirating 50.0 uL from B11 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B11 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+	Aspirating 100.0 uL from A2 of NEST 12 Well Reservoir 15 mL on 2 at 92.86 uL/sec
+	Dispensing 100.0 uL into B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Aspirating 50.0 uL from B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Aspirating 50.0 uL from B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+		Dispensing 50.0 uL into B12 of NEST 96 Well Plate 200 µL Flat on 3 at 92.86 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
